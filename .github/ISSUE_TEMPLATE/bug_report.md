@@ -23,11 +23,12 @@ Just normal transmitting
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]Windows 11
- - Application mode: [?Standalone, Client/Server or Web]
- - Browser ?[e.g. chrome, safari]
- - Version [ v1.6.10]
+ - OS: Windows 11
+ - Application mode: 
+ - Browser 
+ - Version v1.6.10
 
 **Additional context**
 I I have no idea why it sometimes works and sometimes it does not. I'm  working via WLAN.
-Most of the time Tuning is ok, but not always. 
+
+Most of the time Tuning is ok, but not always. I tried something with connector settings on the 705, but i did not find a solution.
