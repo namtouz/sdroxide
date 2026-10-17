@@ -1,14 +1,14 @@
 ---
 name: Bug report
 about: Something doesn't work as it should
-title: ''
-labels: ''
+title: 'IC-705 is not transmitting'
+labels: 'IC-705, transmitting'
 assignees: ''
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Sometimes (very often) the IC-705 is not transmitting, The spectrum window freezes. The transmitting LED on the 705 lights up
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -18,16 +18,16 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
-
+Just normal transmitting
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Application mode: [Standalone, Client/Server or Web]
- - Browser [e.g. chrome, safari]
- - Version [e.g. v1.6.0]
+ - OS: [e.g. iOS]Windows 11
+ - Application mode: [?Standalone, Client/Server or Web]
+ - Browser ?[e.g. chrome, safari]
+ - Version [ v1.6.10]
 
 **Additional context**
-Add any other context about the problem here.
+I I have no idea why it sometimes works and sometimes it does not. I'm  working via WLAN.
+Most of the time Tuning is ok, but not always. 
