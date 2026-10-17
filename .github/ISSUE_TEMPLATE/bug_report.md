@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 **Describe the bug**
-Sometimes (very often) the IC-705 is not transmitting, The spectrum window freezes. The transmitting LED on the 705 lights up
+Sometimes (very often) the IC-705 is not transmitting, The spectrum window freezes. The transmitting LED on the 705 lights up.
+If there is no transmit i also do not see the power meter in sdroxide.
 
 **To Reproduce**
 Steps to reproduce the behavior:
